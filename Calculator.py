@@ -17,7 +17,7 @@ import streamlit.components.v1 as components
 # 1. PAGE CONFIG
 # ============================================================================
 st.set_page_config(
-    page_title="Scientific Calculator by Abdullah Ahmed",
+    page_title="Welcome to my Scientific Calculator",
     page_icon="🧮",
     layout="centered",
     initial_sidebar_state="collapsed",
@@ -133,7 +133,7 @@ st.markdown(
 # ============================================================================
 st.markdown(
     '<div class="calc-title">🧮 Scientific Calculator'
-    '<span class="by">by Abdullah Ahmed</span></div>',
+    '<span class="by">by Waqar Ahmed</span></div>',
     unsafe_allow_html=True,
 )
 
