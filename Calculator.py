@@ -449,7 +449,7 @@ for row in LAYOUT:
 # 11. FOOTER
 # ============================================================================
 st.caption(
-    "⌨️ **Keyboard shortcuts:** digits `0-9`, operators `+ - * /`, "
+    "⌨️ **Keyboard shortcuts for better understanding:** digits `0-9`, operators `+ - * /`, "
     "`^` power, `!` factorial, `(` `)` parentheses, `p` for π, "
     "`Enter` = equals, `Backspace` = delete, `Esc` = clear (AC).  \n"
     "**DEG/RAD** switches the trig unit · **xʸ** = power · **n!** = factorial · "
